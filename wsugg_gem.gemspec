@@ -27,7 +27,8 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/wsugg_gem.rb",
     "spec/spec_helper.rb",
-    "spec/wsugg_gem_spec.rb"
+    "spec/wsugg_gem_spec.rb",
+    "wsugg_gem.gemspec"
   ]
   s.homepage = "http://github.com/wsugg/wsugg_gem"
   s.licenses = ["MIT"]
