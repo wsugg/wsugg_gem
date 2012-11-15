@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "wsugg_gem"
   gem.homepage = "http://github.com/wsugg/wsugg_gem"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{first gem that prints the alphabet}
+  gem.description = %Q{First Gem project to learn how to put a gem together and up on rubygems.org.  The main function of this gem is to print the alphabet.}
   gem.email = "sugg.will@gmail.com"
   gem.authors = ["wsugg"]
   # dependencies defined in Gemfile
